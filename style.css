@@ -1,0 +1,35 @@
+#all{
+	width: 600px;
+	height: 1200px;
+	margin: auto;
+}
+#dong1{
+   width: 300px;
+   height: 400px;
+   margin-left: 150px;
+}
+#dong2{
+   width: 500px;
+   height: 400px;
+   margin-left: 50px;
+}
+#dong3{
+   width: 600px;
+   height: 400px;
+}
+.maudo{
+	background: red;
+	height: 100px;
+}
+.mauxam1{
+	width: 100px;
+	height: 300px;
+	float: left;
+	background: gray;
+}
+.mauxam2{
+	width: 100px;
+	height: 300px;
+	float: right;
+	background: gray;
+}
